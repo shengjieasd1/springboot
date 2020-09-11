@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/springboot-restful-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-restful-provider/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-restful-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-restful-log/pom.xml" />
       </list>
     </option>
   </component>

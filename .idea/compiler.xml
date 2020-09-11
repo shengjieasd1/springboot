@@ -6,17 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot" />
         <module name="springboot-restful-consumer" />
+        <module name="springboot" />
         <module name="springboot-restful-provider" />
-        <module name="springboot-restful-swagger" />
+        <module name="springboot-restful-log" />
         <module name="springboot-restful-api" />
+        <module name="springboot-restful-swagger" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot" target="1.8" />
       <module name="springboot-restful-api" target="1.8" />
       <module name="springboot-restful-consumer" target="1.8" />
+      <module name="springboot-restful-log" target="1.8" />
       <module name="springboot-restful-provider" target="1.8" />
       <module name="springboot-restful-swagger" target="1.8" />
     </bytecodeTargetLevel>
@@ -26,6 +28,7 @@
       <module name="springboot" options="-parameters" />
       <module name="springboot-restful-api" options="-parameters" />
       <module name="springboot-restful-consumer" options="-parameters" />
+      <module name="springboot-restful-log" options="-parameters" />
       <module name="springboot-restful-provider" options="-parameters" />
       <module name="springboot-restful-swagger" options="-parameters" />
     </option>
