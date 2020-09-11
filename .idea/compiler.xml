@@ -9,6 +9,7 @@
         <module name="springboot" />
         <module name="springboot-restful-consumer" />
         <module name="springboot-restful-provider" />
+        <module name="springboot-restful-swagger" />
         <module name="springboot-restful-api" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="springboot-restful-api" target="1.8" />
       <module name="springboot-restful-consumer" target="1.8" />
       <module name="springboot-restful-provider" target="1.8" />
+      <module name="springboot-restful-swagger" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="springboot-restful-api" options="-parameters" />
       <module name="springboot-restful-consumer" options="-parameters" />
       <module name="springboot-restful-provider" options="-parameters" />
+      <module name="springboot-restful-swagger" options="-parameters" />
     </option>
   </component>
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-restful-api/springboot-restful-api.iml" filepath="$PROJECT_DIR$/springboot-restful-api/springboot-restful-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-restful-consumer/springboot-restful-consumer.iml" filepath="$PROJECT_DIR$/springboot-restful-consumer/springboot-restful-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-restful-provider/springboot-restful-provider.iml" filepath="$PROJECT_DIR$/springboot-restful-provider/springboot-restful-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-restful-swagger/springboot-restful-swagger.iml" filepath="$PROJECT_DIR$/springboot-restful-swagger/springboot-restful-swagger.iml" />
     </modules>
   </component>
 </project>
